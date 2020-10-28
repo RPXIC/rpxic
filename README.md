@@ -26,7 +26,7 @@
 
 - 🤝 Looking for a job which would help me make most of my skills.
 
-- 🌱 I’m currently learning: **NextJS**
+- 🌱 I’m currently learning: **Gatsby**
 
 - 📫 How to reach me: **rpc2works@gmail.com**
 
