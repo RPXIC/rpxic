@@ -26,7 +26,7 @@
 
 - 🤝 Looking for a job which would help me make most of my skills.
 
-- 🌱 I’m currently learning: **VUE**
+- 🌱 I’m currently learning: **NUXT**
 
 - 📫 How to reach me: **rpc2works@gmail.com**
 
