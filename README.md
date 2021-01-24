@@ -8,9 +8,10 @@
 <p align="left">
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="html5" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="css3" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="javascript" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="react" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="react" width="40" height="40"/>
 
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express" width="40" height="40"/>
@@ -26,7 +27,7 @@
 
 - 🤝 Looking for a job which would help me make most of my skills.
 
-- 🌱 I’m currently learning: **NUXT**
+- 🌱 I’m currently learning: **Angular**
 
 - 📫 How to reach me: **rpc2works@gmail.com**
 
