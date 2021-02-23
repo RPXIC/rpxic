@@ -10,7 +10,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="css3" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="javascript" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="react" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="react" width="40" height="40"/>
 
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
