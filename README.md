@@ -27,7 +27,7 @@
 
 - 🤝 Looking for a job which would help me make most of my skills.
 
-- 🌱 I’m currently learning: **Angular**
+- 🌱 I’m currently learning: **TypeScript**
 
 - 📫 How to reach me: **rpc2works@gmail.com**
 
