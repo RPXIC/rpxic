@@ -25,9 +25,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
-- 🤝 Looking for a job which would help me make most of my skills.
-
-- 🌱 I’m currently learning: **TypeScript**
 
 - 📫 How to reach me: **rpc2works@gmail.com**
 
