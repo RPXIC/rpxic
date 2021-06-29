@@ -7,7 +7,7 @@
 
 <p align="left">
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="html5" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="css3" width="40" height="40"/>
+<img src="https://w7.pngwing.com/pngs/509/571/png-transparent-cascading-style-sheets-logo-css3-html-web-development-world-wide-web-blue-angle-web-design.png" alt="css3" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" alt="react" width="40" height="40"/>
@@ -21,7 +21,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="graphql" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" alt="apollo" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/mocha-1.svg" alt="mocha" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/jest-0.svg" alt="jest" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/10525473/50372432-95dcd880-0611-11e9-9432-58de9be26b3b.png" alt="jest" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/babel-10.svg" alt="babel" width="40" height="40"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="40" height="40"/>
