@@ -6,7 +6,7 @@
 <h3>My currently stack:</h3>
 
 <p align="left">
-<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="html5" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="40" height="40"/>
 <img src="https://w7.pngwing.com/pngs/509/571/png-transparent-cascading-style-sheets-logo-css3-html-web-development-world-wide-web-blue-angle-web-design.png" alt="css3" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/>
@@ -17,7 +17,7 @@
 
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="mongodb" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="graphql" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" alt="apollo" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/mocha-1.svg" alt="mocha" width="40" height="40"/>
