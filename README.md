@@ -28,7 +28,7 @@
 </p>
 
 
-- 📫 How to reach me: **rpc2works@gmail.com**
+- 📫 How to reach me: **rubenpc.appdev@gmail.com**
 
 <p align="center">
 <a href="https://linkedin.com/in/ruben-ponce-cañadas" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ruben-ponce-cañadas" height="30" width="30" /></a>
